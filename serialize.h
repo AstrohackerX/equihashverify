@@ -23,6 +23,8 @@
 #include <boost/array.hpp>
 #include <boost/optional.hpp>
 
+#include "crypto/common.h"
+
 class CScript;
 
 static const unsigned int MAX_SIZE = 0x02000000;
